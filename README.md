@@ -21,5 +21,5 @@ int[] decodedBytes = COBS.Decode(bytesToEncode);
 
 ## Unit Tests
 
-There are twenty unit tests, ten for encoding and ten for decoding. The unit tests test against the examples given in the [wikipedia article on COBS](https://en.wikipedia.org/wiki/Consistent_Overhead_Byte_Stuffing#Encoding_examples].
+There are twenty unit tests, ten for encoding and ten for decoding. The unit tests test against the examples given in the [wikipedia article on COBS](https://en.wikipedia.org/wiki/Consistent_Overhead_Byte_Stuffing#Encoding_examples).
 
