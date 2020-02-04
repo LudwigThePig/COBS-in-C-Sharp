@@ -1,0 +1,9 @@
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/bin/Debug/COBSTesting.dll
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/bin/Debug/COBSTesting.pdb
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/bin/Debug/nunit.framework.dll
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/bin/Debug/nunit.framework.pdb
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/bin/Debug/nunit.framework.xml
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/obj/Debug/COBSTesting.csprojAssemblyReference.cache
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/obj/Debug/COBSTesting.csproj.CopyComplete
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/obj/Debug/COBSTesting.dll
+/Users/morgan.galvin/code/CSharp/COBSTesting/COBSTesting/obj/Debug/COBSTesting.pdb
